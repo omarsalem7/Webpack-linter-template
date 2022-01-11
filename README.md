@@ -29,4 +29,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-Thanks [Ahmed](https://github.com/ahmedta) for this great idea.
+Thanks [Ahmed](https://github.com/ahmedtaa) for this great idea.
