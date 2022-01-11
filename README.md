@@ -13,18 +13,15 @@ npm install
 npm start
 ```
 
+
 ## Authors
 
-👤 **Author1**
+👤 **Omar Salem**
 
-- GitHub: [@ahmedta](https://github.com/ahmedta)
-- Twitter: [@\_ahmedta](https://twitter.com/_ahmedta)
+- GitHub: [Omar Salem](https://github.com/omarsalem7)
+- Twitter: [Omar Salem](https://twitter.com/Omar80491499)
+- LinkedIn: [Omar Salem](https://www.linkedin.com/in/omar-salem-a6945b177/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -32,4 +29,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+Thanks [Ahmed](https://github.com/ahmedta) for this great idea.
