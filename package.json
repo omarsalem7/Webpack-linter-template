@@ -6,19 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
-    "build": "webpack"
+    "build": "webpack",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmedtaa/webpack.git"
+    "url": "git+https://github.com/{username}/{repo-name}.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahmedtaa/webpack/issues"
+    "url": "https://github.com/{username}/{repo-name}/issues"
   },
-  "homepage": "https://github.com/ahmedtaa/webpack#readme",
+  "homepage": "https://github.com/{username}/{repo-name}#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.1",
@@ -37,6 +38,7 @@
     "webpack-dev-server": "^4.7.2"
   },
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "lodash": "^4.17.21"
   }
 }
